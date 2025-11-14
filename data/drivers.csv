@@ -1,0 +1,101 @@
+driver_id,name,phone,rating,join_date,city
+1,Patricia Smith,959-381-5012,3.83,2024-02-17,Los Angeles
+2,Sarah Williams,804-532-1520,3.54,2021-03-23,Houston
+3,Thomas Lee,227-674-4257,4.57,2023-12-07,Dallas
+4,Susan Davis,659-703-5557,4.71,2020-01-14,Chicago
+5,Susan Hernandez,484-259-4527,4.94,2021-11-20,Los Angeles
+6,John Wilson,299-467-6635,4.41,2024-07-10,New York
+7,Joseph Jackson,327-487-2291,4.33,2024-08-25,San Jose
+8,Barbara Martin,396-821-2139,3.57,2021-04-11,Phoenix
+9,John Davis,303-489-5554,4.18,2024-09-04,Philadelphia
+10,Jennifer Lopez,563-314-5374,4.55,2023-10-31,Los Angeles
+11,Karen Garcia,746-846-5010,3.75,2022-02-16,Phoenix
+12,Sarah Davis,901-432-1916,3.84,2020-03-06,Philadelphia
+13,Richard Rodriguez,267-316-6155,3.82,2022-10-19,San Antonio
+14,Joseph Jones,471-242-5040,4.62,2023-01-08,Phoenix
+15,Christopher Anderson,797-508-6930,3.83,2020-10-10,Dallas
+16,Jessica Williams,973-148-2796,3.73,2020-11-23,San Antonio
+17,Karen Williams,594-490-8668,4.29,2023-02-07,New York
+18,Patricia Jackson,968-373-6573,3.67,2022-06-09,Chicago
+19,Joseph Smith,939-996-5315,4.96,2024-04-09,Chicago
+20,Thomas Brown,840-405-9317,4.41,2020-11-09,Philadelphia
+21,Jennifer Jackson,997-643-1009,4.4,2022-09-27,New York
+22,Patricia Lopez,514-345-1949,3.86,2023-03-07,Los Angeles
+23,John Taylor,270-878-9727,4.65,2020-09-19,San Diego
+24,Sarah Garcia,471-640-7932,4.95,2023-01-09,Houston
+25,Elizabeth Wilson,887-765-7118,4.16,2022-11-25,San Diego
+26,Patricia Davis,430-165-6539,3.53,2023-02-08,Houston
+27,Christopher Davis,207-172-1964,3.84,2020-03-05,Philadelphia
+28,John Moore,443-385-8953,3.82,2020-09-27,San Jose
+29,Christopher Taylor,448-903-8749,4.71,2021-01-24,Los Angeles
+30,Patricia Anderson,562-533-7735,4.2,2024-02-02,New York
+31,Patricia Johnson,612-845-6559,4.7,2020-08-11,Houston
+32,Michael Miller,749-559-3296,4.13,2021-07-24,San Diego
+33,Linda Williams,653-927-2604,3.58,2023-01-12,New York
+34,John Davis,370-516-8956,4.22,2024-11-05,San Antonio
+35,Mary Garcia,588-102-7396,3.9,2024-05-24,San Diego
+36,Elizabeth Anderson,913-848-8973,3.73,2021-08-30,Houston
+37,Mary Martin,953-655-1998,4.62,2020-04-27,New York
+38,Christopher Taylor,714-973-9701,3.74,2022-11-06,Los Angeles
+39,Jennifer Williams,809-169-4853,4.11,2024-12-28,San Jose
+40,Linda Martin,808-140-2343,4.13,2023-04-10,San Jose
+41,Thomas Hernandez,467-309-6147,3.86,2022-03-21,Chicago
+42,Elizabeth Thomas,523-869-2188,3.51,2023-06-26,San Jose
+43,Patricia Williams,750-318-9288,3.9,2021-12-15,Los Angeles
+44,Linda Lopez,491-261-8179,4.75,2023-12-11,Phoenix
+45,Karen Moore,208-783-5905,4.9,2020-07-31,Chicago
+46,William Brown,309-860-3546,3.91,2023-05-23,Houston
+47,David Miller,903-749-5325,4.26,2021-05-29,New York
+48,John Anderson,483-145-1058,4.0,2020-09-24,Phoenix
+49,Jennifer Thomas,764-822-8007,4.34,2020-08-17,Los Angeles
+50,Robert Jackson,236-954-7049,4.37,2020-10-30,San Antonio
+51,Robert Johnson,515-473-1653,4.85,2021-03-06,Houston
+52,Patricia Lopez,998-673-7658,4.96,2024-03-14,Chicago
+53,Linda Garcia,381-522-1406,3.77,2021-11-11,San Antonio
+54,Linda Rodriguez,363-906-2771,4.07,2020-03-20,San Diego
+55,Linda Miller,671-458-6000,4.73,2024-11-19,Houston
+56,Linda Smith,875-297-7528,3.99,2024-11-05,Los Angeles
+57,William Lopez,856-621-7548,4.52,2024-09-23,Dallas
+58,David Smith,318-998-5279,3.77,2021-06-27,New York
+59,Patricia Lee,644-453-6139,4.15,2022-11-13,Los Angeles
+60,Richard Martin,394-360-1727,4.56,2020-01-04,Dallas
+61,Sarah Miller,572-541-2146,4.92,2021-11-07,San Jose
+62,David Brown,937-407-9308,3.96,2022-04-16,Philadelphia
+63,Richard Martinez,767-230-4143,4.13,2022-02-15,Chicago
+64,Karen Martin,508-515-9977,4.75,2021-09-14,Phoenix
+65,Michael Anderson,793-721-6279,4.2,2022-06-24,Houston
+66,Thomas Taylor,953-273-2389,3.93,2023-09-21,San Jose
+67,David Williams,969-340-6085,3.84,2021-02-11,Chicago
+68,James Johnson,450-586-2193,4.18,2024-12-19,San Jose
+69,Michael Wilson,706-509-4997,3.72,2023-11-09,New York
+70,Patricia Anderson,424-280-9486,4.2,2023-02-15,Houston
+71,Patricia Thomas,336-920-8612,4.5,2023-02-18,San Jose
+72,David Thomas,827-934-9270,4.14,2023-01-27,San Diego
+73,Jennifer Taylor,660-365-5050,4.76,2021-07-21,Dallas
+74,Jessica Davis,481-550-2269,4.57,2021-04-25,Phoenix
+75,David Hernandez,753-182-3267,3.73,2022-02-23,Chicago
+76,Michael Williams,624-517-6421,4.31,2022-05-01,New York
+77,Michael Anderson,598-888-1320,4.79,2024-04-16,San Jose
+78,Richard Taylor,206-460-5892,4.63,2024-10-13,San Antonio
+79,Sarah Jackson,817-325-8999,3.83,2022-06-11,San Diego
+80,James Wilson,544-784-7624,4.59,2024-09-17,San Diego
+81,Robert Lee,746-127-7455,4.39,2023-09-19,New York
+82,John Anderson,338-987-8564,3.77,2021-06-16,San Antonio
+83,David Miller,665-434-6529,4.64,2022-02-15,Phoenix
+84,Susan Rodriguez,283-581-1317,4.62,2020-04-16,Philadelphia
+85,Linda Williams,999-767-1659,4.63,2021-05-21,Houston
+86,James Lee,356-344-3068,4.21,2020-08-22,San Jose
+87,Michael Thomas,916-362-7043,3.75,2023-05-28,Los Angeles
+88,Jennifer Martinez,310-692-1420,4.89,2023-03-25,San Antonio
+89,Richard Miller,277-706-4978,3.65,2024-05-01,Phoenix
+90,Karen Brown,779-901-1672,4.02,2022-05-27,Philadelphia
+91,John Moore,863-449-1207,4.77,2024-08-11,San Diego
+92,Patricia Anderson,570-750-8532,4.56,2022-06-10,Chicago
+93,Thomas Rodriguez,830-927-9817,4.66,2022-08-10,San Antonio
+94,Christopher Rodriguez,530-972-5022,4.75,2020-06-26,Phoenix
+95,Joseph Davis,968-575-7209,4.0,2022-10-09,Philadelphia
+96,Jennifer Taylor,417-463-5232,4.01,2024-12-07,San Jose
+97,William Jackson,210-629-4130,3.63,2024-01-14,San Antonio
+98,Jessica Jackson,976-346-8800,4.47,2022-10-02,San Diego
+99,James Williams,501-326-7625,4.54,2021-09-19,San Jose
+100,Barbara Taylor,766-643-6632,4.14,2024-03-07,Dallas
